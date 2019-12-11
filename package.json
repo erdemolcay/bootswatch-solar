@@ -1,0 +1,19 @@
+{
+  "name": "bootswatch-solar",
+  "version": "3.3.7",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erdemolcay/bootswatch-solar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/erdemolcay/bootswatch-solar/issues"
+  },
+  "homepage": "https://github.com/erdemolcay/bootswatch-solar#readme",
+  "description": ""
+}
